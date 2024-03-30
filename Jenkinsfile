@@ -26,7 +26,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 // Deploy artifacts to a server or repository
-                // Add deployment steps as needed
+         
             }
         }
     }
