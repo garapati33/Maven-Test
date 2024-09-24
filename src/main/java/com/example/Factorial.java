@@ -11,7 +11,7 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        int number = 5; // Change this to the number whose factorial you want to calculate
+        int number = 6; // Change this to the number whose factorial you want to calculate
         int result = calculateFactorial(number);
         System.out.println("Factorial of " + number + " is: " + result);
     }
